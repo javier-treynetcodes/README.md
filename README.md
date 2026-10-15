@@ -1,7 +1,7 @@
 <div align="center">
 
 # Javier García
-### Software Developer | Games Lead Programmer | Therefore Integration Specialist 
+### Unity Developer (C#) | Therefore Integration Specialist | Full Stack React/Node
 
 **Build software products under TreyNet Codes — apps, games, and web platforms, from architecture to deployment.**
 
