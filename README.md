@@ -30,7 +30,7 @@ I integrate **Therefore™** with the systems organizations already rely on: RES
 
 | Project | What it is | Status |
 |:---|:---|:---:|
-| [**TreyNet Codes**](https://treynetcodes.vercel.app/) | Studio site — games, products and devlogs | 🟢 Live |
+| [**TreyNet Codes Studio**](https://treynetcodes.vercel.app/) | Studio site — games, products and devlogs | 🟢 Live |
 | **TCG Game** | Collectible card game | 🔨 In Development |
 | **Early Childhood Education App** | School management platform for early education centers | 🔨 In Development |
 
