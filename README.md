@@ -17,8 +17,8 @@
 
 TreyNet Codes is a games & media studio. We build games and software products as complete experiences: solid engineering underneath, careful design on top. I lead development, from core architecture to release.
 
-- **Games** — Gameplay systems, architecture and online services in Unity · C#
-- **Apps & products** — Web platforms, mobile apps and backend services in React · TypeScript · Kotlin · Node.js
+- **Games** — Gameplay systems, architecture and online services.
+- **Apps & products** — Web platforms, mobile apps and backend services.
 
 ## 🗂️ As Therefore™ Integration Specialist
 
