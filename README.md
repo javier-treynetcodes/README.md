@@ -13,9 +13,9 @@
 
 ---
 
-## 🎮 At TreyNet Codes
+## 🎮 At TreyNet Codes Studios
 
-TreyNet Codes is a games & media studio. We build games and software products as complete experiences: solid engineering underneath, careful design on top. I lead development, from core architecture to release.
+TreyNet Codes is a games and media studio that builds complete experiences through games and software products, combining solid engineering with thoughtful design. I lead development from core architecture to release.
 
 - **Games** — Gameplay systems, architecture and online services.
 - **Apps & products** — Web platforms, mobile apps and backend services.
@@ -30,7 +30,7 @@ I integrate **Therefore™** with the systems organizations already rely on: RES
 
 | Project | What it is | Status |
 |:---|:---|:---:|
-| [**TreyNet Codes Studio**](https://treynetcodes.vercel.app/) | Studio site — games, products and devlogs | 🟢 Live |
+| [**TreyNet Codes Studios**](https://treynetcodes.vercel.app/) | Studio site — games, products and devlogs | 🟢 Live |
 | **TCG Game** | Collectible card game | 🔨 In Development |
 | **Early Childhood Education App** | School management platform for early education centers | 🔨 In Development |
 
@@ -41,6 +41,8 @@ I integrate **Therefore™** with the systems organizations already rely on: RES
 - **Product first** — every project starts from who will use it and what it needs to do well.
 - **Architecture that lasts** — modular, typed and documented, so products can grow without rewrites.
 - **End to end** — design, development, data and deployment handled as one piece.
+  
+--- 
 
 <div align="center">
 
