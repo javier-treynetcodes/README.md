@@ -3,77 +3,57 @@
 # Javier García
 ### Unity Developer (C#) | Therefore Integration Specialist | Full Stack React/Node
 
-**Build software products under TreyNet Codes — apps, games, and web platforms, from architecture to deployment.**
+**Software Developer · Games Lead Programmer · Therefore™ Integration Specialist**
 
+*I build games, apps and software solutions.*
+
+[![Website](https://img.shields.io/badge/treynetcodes.vercel.app-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00f0ff)](https://treynetcodes.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/javier-gs)
 
 </div>
 
 ---
 
-## What I Build
+## 🎮 At TreyNet Codes Studios
 
-### 🌐 Web Platforms
-Full-stack products with React, TypeScript, and Node.js. From commercial landing pages to data-driven SPAs. Focused on performance, usability, and conversion.
+TreyNet Codes is a games and media studio that builds complete experiences through games and software products, combining solid engineering with thoughtful design. I lead development from core architecture to release.
 
-### 📱 Mobile Applications
-Native Android apps with Kotlin and Jetpack Compose. Multiplatform architecture designed to scale.
+- **Games** — Gameplay systems, architecture and online services.
+- **Apps & products** — Web platforms, mobile apps and backend services.
 
-### 🎮 Video Games
-Game design and full development with Unity and C#. From mechanics to monetization strategy.
+## 🗂️ As Therefore™ Integration Specialist
 
----
-
-## Active Projects
-
-| Project | Domain | Status | Stack |
-|---|---|---|---|
-| [**treynetcodes**](https://treynetcodes.vercel.app/) | TreyNet Codes Studios brand hub | 🟢 Live | React · TypeScript · Vite |
-| [**PokéMétrix**](https://treynetcodes.vercel.app/pokemetrix) | Full Pokédex web app — 1302 Pokémon, regional filters, type matchups | 🟢 Live | React · TypeScript · PokéAPI |
-| **Early Childhood Education App** | School management platform for early education centers | 🔨 In Development | React · Node.js · Kotlin · Firebase |
-| **TCG Mobile Game** | Trading card game for mobile | 🔨 In Development | Unity · C# · Node.js · Firebase |
+I integrate **Therefore™** with the systems organizations already rely on: REST API integrations, AI-powered document processing and access permission models — so document workflows stay connected, secure and traceable.
 
 ---
 
-## Stack
+## 🚧 Projects
+
+| Project | What it is | Status |
+|:---|:---|:---:|
+| [**TreyNet Codes Studios**](https://treynetcodes.vercel.app/) | Studio site — games, products and devlogs | 🟢 Live |
+| [**Métrix — Game Balance Lab**](https://javier-treynetcodes.github.io/metrix-game-balance-lab/) | Balance lab for game designers | 🟢 Live |
+| **TCG Game** | Collectible card game | 🔨 In Development |
+| **Early Childhood Education App** | School management platform for early education centers | 🔨 In Development |
+
+---
+
+## 🧰 How I build
+
+- **Product first** — every project starts from who will use it and what it needs to do well.
+- **Architecture that lasts** — modular, typed and documented, so products can grow without rewrites.
+- **End to end** — design, development, data and deployment handled as one piece.
+  
+--- 
 
 <div align="center">
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Backend & Services**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**Mobile & Games**
-
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-*[TreyNet Codes](https://treynetcodes.vercel.app/) — commercial software products.*
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 </div>
